@@ -29,5 +29,5 @@ GameBaiGo88 là nền tảng trò chơi bài được xây dựng trên Node.js 
 Clone repository về máy của bạn:
 
 ```bash
-git clone https://github.com/yourusername/GameBaiGo88-nodejs.git
+[git clone https://github.com/yourusername/GameBaiGo88-nodejs.git](https://github.com/luuanhhoang/GameBaiGo88-nodejs)
 cd GameBaiGo88-nodejs
